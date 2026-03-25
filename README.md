@@ -1,6 +1,5 @@
 # Zhuang Liu Lab Wiki @Princeton
 
----
 
 ## Paper Writing & Rebuttal
 
@@ -12,7 +11,6 @@
 | LaTeX template for arXiv | [Overleaf](https://www.overleaf.com/read/hvyxmdbzzfhp) |
 | Rebuttal guide | [Google Doc](https://docs.google.com/document/d/1OutETpGNG7lvUQwC--z8ia4exMqzEIe1dmdfZNtWNes/edit?usp=sharing) |
 
----
 
 ## Tools
 
@@ -29,7 +27,6 @@
 [no]: https://www.notion.com/product/ai-meeting-notes
 [db]: https://csguide.cs.princeton.edu/software/dropbox
 
----
 
 ## Computation Resources
 
@@ -72,7 +69,6 @@ Make sure your benchmarks and evaluation pipeline are finalized before spending 
 1. Ask in the corresponding Slack channel (#neuronic-users / #della-users / #tpu-users).
 2. Recommended: create a GitHub issue in the [cluster-guide](https://github.com/zlab-princeton-internal/cluster-guide) repo if the issue might recur.
 
----
 
 ## Intern / Short-term Member Guidelines
 
@@ -81,7 +77,6 @@ Make sure your benchmarks and evaluation pipeline are finalized before spending 
 - **GitHub & Overleaf**: At the start of your internship, contact Taiming to create a GitHub repo (under [zlab-princeton](https://github.com/zlab-princeton)) and an Overleaf project (Princeton has a premium license) for easy collaboration.
 - **Project completion**: A project is only considered complete after public release (paper + code/data on GitHub), not just conference submission. Please keep this in mind from day one.
 
----
 
 ## Lab Accounts
 
@@ -93,13 +88,11 @@ Contact Taiming for access.
 | Huggingface Organization | [zlab-princeton](https://huggingface.co/zlab-princeton) | Code/data release |
 | GPT-Pro | Lab shared account | High-intelligence tasks |
 
----
 
 ## Group Meetings
 
 [Meeting spreadsheet](https://docs.google.com/spreadsheets/d/1ZmoTatluRDaasvbBsAvpknmXuvOjx8f9XQTJhtGV5_o/edit?gid=0) — sign up and upload your slides.
 
----
 
 ## Claude Code (or Other Coding Agents)
 
@@ -113,7 +106,6 @@ High-leverage uses for paper writing:
 
 **Always verify Claude Code's output.** Treat its results as hallucination candidates by default. Review AI-generated code and experimental results carefully.
 
----
 
 ## Slack
 
@@ -130,7 +122,6 @@ For long-term members (PhD/postdoc/MSE), also join these Princeton Slack workspa
 - [AI Lab @ Princeton](https://ailab-princeton.slack.com)
 - [PrincetonCSGrad](https://gradslack.cs.princeton.edu/)
 
----
 
 ## Email Groups
 
@@ -139,7 +130,6 @@ For long-term members (PhD/postdoc/MSE), also join these Princeton Slack workspa
 | [zl-lab@googlegroups.com](mailto:zl-lab@googlegroups.com) | Graduate students and Postdocs |
 | [zl-lab-intern@googlegroups.com](mailto:zl-lab-intern@googlegroups.com) | Interns |
 
----
 
 ## Mailing Lists
 
