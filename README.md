@@ -24,7 +24,7 @@
 
 | Tool | Description | Note |
 |------|-------------|------|
-| [Overleaf-Dropbox sync][ol] | Local editing, figure upload, Claude Code access, backup | **Strongly recommended** |
+| [Overleaf-Dropbox sync][ol] | Local editing, figure upload, Claude Code access, backup | **Strongly recommended**. Requires [Dropbox desktop client](https://www.dropbox.com/install) |
 | [Spokenly](https://spokenly.app/) | Voice-to-text prompting for coding and writing | **Strongly recommended** |
 | [Notion AI meeting notes][no] | Auto-transcribe video meetings | Set correct language in settings |
 | [Dropbox Business][db] | Cloud storage and sync | Free via Princeton |
@@ -98,7 +98,7 @@ Contact Taiming for access.
 
 Strongly recommended. [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) is a command-line AI assistant.
 
-**Setup for paper writing**: [Sync your Overleaf to Dropbox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization), then open a Claude Code session in your local Overleaf project folder. This gives Claude Code full access to all your .tex files and figures.
+**Setup for paper writing**: [Sync your Overleaf to Dropbox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization) (requires the [Dropbox desktop client](https://www.dropbox.com/install)), then open a Claude Code session in your local Overleaf project folder. This gives Claude Code full access to all your .tex files and figures.
 
 High-leverage uses:
 
