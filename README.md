@@ -12,6 +12,14 @@
 | Rebuttal guide | [Google Doc](https://docs.google.com/document/d/1OutETpGNG7lvUQwC--z8ia4exMqzEIe1dmdfZNtWNes/edit?usp=sharing) |
 
 
+## Intern / Short-term Member Guidelines
+
+- **Onboarding**: Contact Taiming for Slack, netID, and cluster access.
+- **Full-time commitment**: Internships are full-time positions. If you have outside research projects, report them promptly.
+- **GitHub & Overleaf**: At the start of your internship, contact Taiming to create a GitHub repo (under [zlab-princeton](https://github.com/zlab-princeton)) and an Overleaf project (Princeton has a premium license) for easy collaboration.
+- **Project completion**: A project is only considered complete after public release (paper + code/data on GitHub), not just conference submission. Please keep this in mind from day one.
+
+
 ## Tools
 
 | Tool | Description | Note |
@@ -70,14 +78,6 @@ Make sure your benchmarks and evaluation pipeline are finalized before spending 
 2. Recommended: create a GitHub issue in the [cluster-guide](https://github.com/zlab-princeton-internal/cluster-guide) repo if the issue might recur.
 
 
-## Intern / Short-term Member Guidelines
-
-- **Onboarding**: Contact Taiming for Slack, netID, and cluster access.
-- **Full-time commitment**: Internships are full-time positions. If you have outside research projects, report them promptly.
-- **GitHub & Overleaf**: At the start of your internship, contact Taiming to create a GitHub repo (under [zlab-princeton](https://github.com/zlab-princeton)) and an Overleaf project (Princeton has a premium license) for easy collaboration.
-- **Project completion**: A project is only considered complete after public release (paper + code/data on GitHub), not just conference submission. Please keep this in mind from day one.
-
-
 ## Lab Accounts
 
 Contact Taiming for access.
@@ -98,11 +98,14 @@ Contact Taiming for access.
 
 Strongly recommended. [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) is a command-line AI assistant.
 
-High-leverage uses for paper writing:
+**Setup for paper writing**: [Sync your Overleaf to Dropbox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization), then open a Claude Code session in your local Overleaf project folder. This gives Claude Code full access to all your .tex files and figures.
+
+High-leverage uses:
 
 1. Check your paper against the [writing requirements](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0) and adopt useful suggestions.
 2. Get critical reviewer-style feedback on your draft.
 3. Search for missing related work, especially recent papers. Do this early to avoid duplicating existing work.
+4. Ask it to help craft a more exciting and simple story (one that is supported by your results), and generate candidate titles and abstracts.
 
 **Always verify Claude Code's output.** Treat its results as hallucination candidates by default. Review AI-generated code and experimental results carefully.
 
@@ -128,7 +131,7 @@ For long-term members (PhD/postdoc/MSE), also join these Princeton Slack workspa
 | Group | Members |
 |-------|---------|
 | [zl-lab@googlegroups.com](mailto:zl-lab@googlegroups.com) | Graduate students and Postdocs |
-| [zl-lab-intern@googlegroups.com](mailto:zl-lab-intern@googlegroups.com) | Interns |
+| [zl-lab-interns@googlegroups.com](mailto:zl-lab-interns@googlegroups.com) | Interns |
 
 
 ## Mailing Lists
