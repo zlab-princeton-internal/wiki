@@ -10,6 +10,7 @@
 | Paper writing requirements | [Google Doc](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0) |
 | LaTeX template for arXiv | [Overleaf](https://www.overleaf.com/read/hvyxmdbzzfhp) |
 | Rebuttal guide | [Google Doc](https://docs.google.com/document/d/1OutETpGNG7lvUQwC--z8ia4exMqzEIe1dmdfZNtWNes/edit?usp=sharing) |
+| Figure & table guide | [GitHub](https://github.com/zlab-princeton-internal/figure-guide) |
 
 
 ## Intern / Short-term Member Guidelines
