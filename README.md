@@ -103,7 +103,7 @@ Strongly recommended. [Claude Code](https://docs.anthropic.com/en/docs/claude-co
 
 **Setup for paper writing**: [Sync your Overleaf to Dropbox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization) (requires the [Dropbox desktop client](https://www.dropbox.com/install)), then open a Claude Code session in your local Overleaf project folder. This gives Claude Code full access to all your .tex files and figures.
 
-High-leverage uses:
+High-leverage uses for paper writing:
 
 1. Check your paper against the [writing requirements](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0) and adopt useful suggestions.
 2. Get critical reviewer-style feedback on your draft.

@@ -103,7 +103,7 @@
 
 **论文写作设置**：[将 Overleaf 同步到 Dropbox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)（需要 [Dropbox 桌面客户端](https://www.dropbox.com/install)），然后在本地 Overleaf 项目文件夹中打开 Claude Code session。这样 Claude Code 就能访问你所有的 .tex 文件和图片。
 
-高杠杆用法：
+论文写作的高杠杆用法：
 
 1. 让它对照 [writing requirements](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0) 检查你的论文，采纳有用的建议。
 2. 让它以 critical reviewer 的角度给你的 draft 反馈。
