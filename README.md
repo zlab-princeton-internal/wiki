@@ -107,6 +107,7 @@ High-leverage uses:
 2. Get critical reviewer-style feedback on your draft.
 3. Search for missing related work, especially recent papers. Do this early to avoid duplicating existing work.
 4. Ask it to help craft a more exciting and simple story (one that is supported by your results), and generate candidate titles and abstracts.
+5. When iterating on figures, abstracts, or titles, ask it to propose multiple options side by side (e.g., 3–4 variants with small differences). This lets you compare at a glance and speeds up iteration dramatically.
 
 **Always verify Claude Code's output.** Treat its results as hallucination candidates by default. Review AI-generated code and experimental results carefully.
 
