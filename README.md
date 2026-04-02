@@ -1,3 +1,5 @@
+[中文版](README_CN.md)
+
 # Zhuang Liu Lab Wiki @Princeton
 
 
