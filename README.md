@@ -108,7 +108,7 @@ High-leverage uses:
 3. Search for missing related work, especially recent papers. Do this early to avoid duplicating existing work.
 4. Ask it to help craft a more exciting and simple story (one that is supported by your results), and generate candidate titles and abstracts.
 5. When iterating on figures, abstracts, or titles, ask it to propose multiple options side by side (e.g., 3–4 variants with small differences). This lets you compare at a glance and speeds up iteration dramatically.
-6. For each section, ask it to list the biggest weaknesses ranked by importance. It may miss details, but it will usually catch a few real issues — clarity problems, logical gaps, or missing context. Adopt what makes sense. This is a minimal step you should do before asking for human feedback, not something to leave until the last day.
+6. Ask it to list the biggest weaknesses of one section at a time, ranked by importance. Do this for each section separately (one prompt per section). It may miss details, but it will usually catch a few real issues — clarity problems, logical gaps, or missing context. Adopt what makes sense. This is a minimal step you should do before asking for human feedback, not something to leave until the last day.
 
 **Always verify Claude Code's output.** Treat its results as hallucination candidates by default. Review AI-generated code and experimental results carefully.
 
