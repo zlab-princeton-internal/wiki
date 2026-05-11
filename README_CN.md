@@ -12,6 +12,7 @@
 | 写作指南 | [GitHub](https://github.com/zlab-princeton-internal/writing-guide) |
 | 图表制作指南 | [GitHub](https://github.com/zlab-princeton-internal/figure-guide) |
 | AI 论文检查 | [GitHub](https://github.com/zlab-princeton-internal/ai-paper-checking) |
+| 写作自评 | [GitHub](https://github.com/zlab-princeton-internal/paper-rating) |
 | 同行互审制度 | [GitHub](https://github.com/zlab-princeton-internal/peer-review) |
 | arXiv LaTeX 模板 | [Overleaf](https://www.overleaf.com/read/hvyxmdbzzfhp) |
 | Rebuttal guide | [Google Doc](https://docs.google.com/document/d/1OutETpGNG7lvUQwC--z8ia4exMqzEIe1dmdfZNtWNes/edit?usp=sharing) |

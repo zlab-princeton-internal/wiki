@@ -12,6 +12,7 @@
 | Paper writing guide | [GitHub](https://github.com/zlab-princeton-internal/writing-guide) |
 | Figure & table guide | [GitHub](https://github.com/zlab-princeton-internal/figure-guide) |
 | AI paper checking | [GitHub](https://github.com/zlab-princeton-internal/ai-paper-checking) |
+| Writing self-review | [GitHub](https://github.com/zlab-princeton-internal/paper-rating) |
 | Peer review system | [GitHub](https://github.com/zlab-princeton-internal/peer-review) |
 | LaTeX template for arXiv | [Overleaf](https://www.overleaf.com/read/hvyxmdbzzfhp) |
 | Rebuttal guide | [Google Doc](https://docs.google.com/document/d/1OutETpGNG7lvUQwC--z8ia4exMqzEIe1dmdfZNtWNes/edit?usp=sharing) |
