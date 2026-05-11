@@ -30,7 +30,7 @@
 | 工具 | 描述 | 备注 |
 |------|------|------|
 | [Overleaf-Dropbox 同步][ol] | 本地编辑、上传图片、Claude Code 访问、备份 | **强烈推荐**。需要安装 [Dropbox 桌面客户端](https://www.dropbox.com/install) |
-| [Spokenly](https://spokenly.app/) | 语音转文字，用于 coding 和写作 | **强烈推荐** |
+| 语音转文字（用于 prompting） | [SuperWhisper](https://superwhisper.com/)（**默认推荐**）、[Typeless](https://typeless.app/) 或 [Spokenly](https://spokenly.app/) | **强烈推荐**，尤其用于 Claude Code / Codex prompting。SuperWhisper 默认推荐；Typeless 输出更整洁但改动较多。至少试用其中一个（~5 分钟配置好）看看能否提升效率。 |
 | [Notion AI 会议记录][no] | 自动转录视频会议 | 在设置中选择正确的语言 |
 | [Dropbox Business][db] | 云存储和同步 | Princeton 免费提供 |
 | [Grammarly](https://app.grammarly.com/) | 语法检查 | 使用浏览器插件配合 Overleaf |

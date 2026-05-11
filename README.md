@@ -30,7 +30,7 @@
 | Tool | Description | Note |
 |------|-------------|------|
 | [Overleaf-Dropbox sync][ol] | Local editing, figure upload, Claude Code access, backup | **Strongly recommended**. Requires [Dropbox desktop client](https://www.dropbox.com/install) |
-| [Spokenly](https://spokenly.app/) | Voice-to-text prompting for coding and writing | **Strongly recommended** |
+| Voice-to-text for prompting | [SuperWhisper](https://superwhisper.com/) (**recommended default**), [Typeless](https://typeless.app/), or [Spokenly](https://spokenly.app/) | **Strongly recommended**, especially for Claude Code / Codex prompting. SuperWhisper is the default pick; Typeless gives cleaner output but rewrites more aggressively. Try at least one (~5 min to set up) and see if it improves your productivity. |
 | [Notion AI meeting notes][no] | Auto-transcribe video meetings | Set correct language in settings |
 | [Dropbox Business][db] | Cloud storage and sync | Free via Princeton |
 | [Grammarly](https://app.grammarly.com/) | Grammar checking | Use browser plugin for Overleaf |
