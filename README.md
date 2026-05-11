@@ -5,14 +5,16 @@
 
 ## Paper Writing & Rebuttal
 
-**[Paper writing requirements](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0)** (must pass). Read this when you start writing your paper, not at the end. Aim to have a complete draft that passes all requirements at least 5 days before the submission deadline. This also applies before arXiv release.
+**[Paper writing requirements](https://github.com/zlab-princeton-internal/writing-guide)** (must pass). Read this when you start writing your paper, not at the end. Aim to have a complete draft that passes all requirements at least 5 days before the submission deadline. This also applies before arXiv release.
 
 | Resource | Link |
 |----------|------|
-| Paper writing requirements | [Google Doc](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0) |
+| Paper writing guide | [GitHub](https://github.com/zlab-princeton-internal/writing-guide) |
+| Figure & table guide | [GitHub](https://github.com/zlab-princeton-internal/figure-guide) |
+| AI paper checking | [GitHub](https://github.com/zlab-princeton-internal/ai-paper-checking) |
+| Peer review system | [GitHub](https://github.com/zlab-princeton-internal/peer-review) |
 | LaTeX template for arXiv | [Overleaf](https://www.overleaf.com/read/hvyxmdbzzfhp) |
 | Rebuttal guide | [Google Doc](https://docs.google.com/document/d/1OutETpGNG7lvUQwC--z8ia4exMqzEIe1dmdfZNtWNes/edit?usp=sharing) |
-| Figure & table guide | [GitHub](https://github.com/zlab-princeton-internal/figure-guide) |
 
 
 ## Intern / Short-term Member Guidelines
@@ -105,7 +107,7 @@ Strongly recommended. [Claude Code](https://docs.anthropic.com/en/docs/claude-co
 
 High-leverage uses for paper writing:
 
-1. Check your paper against the [writing requirements](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0) and adopt useful suggestions.
+1. Check your paper against the [writing guide](https://github.com/zlab-princeton-internal/writing-guide) and [figure guide](https://github.com/zlab-princeton-internal/figure-guide), and adopt useful suggestions. You can use the [AI paper checking](https://github.com/zlab-princeton-internal/ai-paper-checking) prompt for this.
 2. Get critical reviewer-style feedback on your draft.
 3. Search for missing related work, especially recent papers. Do this early to avoid duplicating existing work.
 4. Ask it to help craft a more exciting and simple story (one that is supported by your results), and generate candidate titles and abstracts.
@@ -119,12 +121,12 @@ High-leverage uses for paper writing:
 
 Our workspace: **zhuanglabatprinceton.slack.com**.
 
-| Channel | Purpose |
-|---------|---------|
+| Channel         | Purpose                                  |
+| --------------- | ---------------------------------------- |
 | #sharing-asking | Share interesting stuff or ask questions |
-| #neuronic-users | Neuronic cluster discussion |
-| #della-users | Della cluster discussion |
-| #tpu-users | TPU cluster discussion |
+| #neuronic-users | Neuronic cluster discussion              |
+| #della-users    | Della cluster discussion                 |
+| #tpu-users      | TPU cluster discussion                   |
 
 For long-term members (PhD/postdoc/MSE), also join these Princeton Slack workspaces:
 - [AI Lab @ Princeton](https://ailab-princeton.slack.com)

@@ -5,14 +5,16 @@
 
 ## 论文写作与 Rebuttal
 
-**[Paper writing requirements](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0)**（必须通过）。开始写论文时就读这份文档，不要拖到最后。争取在投稿截止日前至少 5 天拿出一份通过所有要求的完整 draft。arXiv 发布前同样适用。
+**[Paper writing requirements](https://github.com/zlab-princeton-internal/writing-guide)**（必须通过）。开始写论文时就读这份文档，不要拖到最后。争取在投稿截止日前至少 5 天拿出一份通过所有要求的完整 draft。arXiv 发布前同样适用。
 
 | 资源 | 链接 |
 |------|------|
-| Paper writing requirements | [Google Doc](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0) |
+| 写作指南 | [GitHub](https://github.com/zlab-princeton-internal/writing-guide) |
+| 图表制作指南 | [GitHub](https://github.com/zlab-princeton-internal/figure-guide) |
+| AI 论文检查 | [GitHub](https://github.com/zlab-princeton-internal/ai-paper-checking) |
+| 同行互审制度 | [GitHub](https://github.com/zlab-princeton-internal/peer-review) |
 | arXiv LaTeX 模板 | [Overleaf](https://www.overleaf.com/read/hvyxmdbzzfhp) |
 | Rebuttal guide | [Google Doc](https://docs.google.com/document/d/1OutETpGNG7lvUQwC--z8ia4exMqzEIe1dmdfZNtWNes/edit?usp=sharing) |
-| 图表制作指南 | [GitHub](https://github.com/zlab-princeton-internal/figure-guide) |
 
 
 ## 实习生 / 短期成员须知
@@ -105,7 +107,7 @@
 
 论文写作的高杠杆用法：
 
-1. 让它对照 [writing requirements](https://docs.google.com/document/d/11c2vt91LjPNHI85lZdMVyQB_NOZnODwIrGlxoLn2W-c/edit?tab=t.0) 检查你的论文，采纳有用的建议。
+1. 让它对照 [writing guide](https://github.com/zlab-princeton-internal/writing-guide) 和 [figure guide](https://github.com/zlab-princeton-internal/figure-guide) 检查你的论文，采纳有用的建议。可以用 [AI 论文检查](https://github.com/zlab-princeton-internal/ai-paper-checking) prompt。
 2. 让它以 critical reviewer 的角度给你的 draft 反馈。
 3. 搜索可能遗漏的 related work，尤其是最近的论文。尽早做这件事，避免重复已有工作。
 4. 让它帮你构思更 exciting 和 simple 的 story（要有结果支撑），并生成候选的 title 和 abstract。
