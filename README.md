@@ -32,7 +32,7 @@ Two expectations matter most: **full-time commitment** to the work, and **carryi
   - Access to the **clusters** (Della GPU, and TPU)
 
   Then read the [Della guide](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della) and [TPU guide](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/tpu) before you start running jobs. See the Computation Resources section below for more.
-- **Full-time commitment**: Internships are full-time positions. If you have outside research projects, report them promptly.
+- **Full-time commitment**: While you are in the lab, this project should be your single primary research focus. Please do not work on other concurrent research projects during this time. This is about priority and focus, not about working long hours. If you have any outside research commitments, disclose them upfront, and report any new ones promptly.
 - **GitHub & Overleaf**: At the start of your internship, contact Taiming to create a GitHub repo (under [zlab-princeton](https://github.com/zlab-princeton)) and an Overleaf project (Princeton has a premium license) for easy collaboration.
 - **Project completion**: A project is only considered complete after public release (paper + code/data on GitHub), not just conference submission. Please keep this in mind from day one.
 
