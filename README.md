@@ -3,6 +3,21 @@
 # Zhuang Liu Lab Wiki @Princeton
 
 
+## Intern / Short-term Member Guidelines
+
+Two expectations matter most: **full-time commitment** to the work, and **carrying your project all the way to public release**. Please take both seriously from day one.
+
+- **Onboarding**: To get set up, contact Taiming and your PhD collaborator (keep both in the loop) for:
+  - Princeton **netID**
+  - **Slack** access
+  - Access to the **cluster(s)** you need (Della GPU and/or TPU, depending on project needs — if unclear, discuss with your PhD collaborator)
+
+  Then read the [Della guide](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della) and [TPU guide](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/tpu) before you start running jobs. See the Computation Resources section below for more.
+- **Full-time commitment**: While you are in the lab, this project should be your single primary research focus. Please do not work on other concurrent research projects during this time. This is about priority and focus, not about working long hours. If you have any outside research commitments, disclose them upfront, and report any new ones promptly.
+- **GitHub & Overleaf**: At the start of your internship, contact Taiming to create a GitHub repo (under [zlab-princeton](https://github.com/zlab-princeton)) and an Overleaf project (Princeton has a premium license) for easy collaboration.
+- **Project completion**: A project is only considered complete after public release (paper + code/data on GitHub), not just conference submission. Please keep this in mind from day one.
+
+
 ## Paper Writing & Rebuttal
 
 We have a set of resources to help you write a high-quality paper. The two core standards are the **[writing guide](https://github.com/zlab-princeton-internal/writing-guide)** and the **[figure & table guide](https://github.com/zlab-princeton-internal/figure-guide)**. Read both when you start writing, not at the end, and make sure your paper meets them. Aim to have a complete draft that meets all requirements at least 5 days before the submission deadline. This also applies before arXiv release.
@@ -20,21 +35,6 @@ When the paper goes public (arXiv release / acceptance), prepare dissemination m
 | Peer review system | [GitHub](https://github.com/zlab-princeton-internal/peer-review) |
 | LaTeX template for arXiv | [Overleaf](https://www.overleaf.com/read/hvyxmdbzzfhp) |
 | Rebuttal guide | [Google Doc](https://docs.google.com/document/d/1OutETpGNG7lvUQwC--z8ia4exMqzEIe1dmdfZNtWNes/edit?usp=sharing) |
-
-
-## Intern / Short-term Member Guidelines
-
-Two expectations matter most: **full-time commitment** to the work, and **carrying your project all the way to public release**. Please take both seriously from day one.
-
-- **Onboarding**: To get set up, contact Taiming and your PhD collaborator (keep both in the loop) for:
-  - Princeton **netID**
-  - **Slack** access
-  - Access to the **cluster(s)** you need (Della GPU and/or TPU, depending on project needs — if unclear, discuss with your PhD collaborator)
-
-  Then read the [Della guide](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della) and [TPU guide](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/tpu) before you start running jobs. See the Computation Resources section below for more.
-- **Full-time commitment**: While you are in the lab, this project should be your single primary research focus. Please do not work on other concurrent research projects during this time. This is about priority and focus, not about working long hours. If you have any outside research commitments, disclose them upfront, and report any new ones promptly.
-- **GitHub & Overleaf**: At the start of your internship, contact Taiming to create a GitHub repo (under [zlab-princeton](https://github.com/zlab-princeton)) and an Overleaf project (Princeton has a premium license) for easy collaboration.
-- **Project completion**: A project is only considered complete after public release (paper + code/data on GitHub), not just conference submission. Please keep this in mind from day one.
 
 
 ## Tools
@@ -88,6 +88,8 @@ Make sure your benchmarks and evaluation pipeline are finalized before spending 
 
 1. Start with the [Princeton AI Sandbox](https://princeton.service-now.com/service?id=kb_article&sys_id=KB0014337) ($250/month free per user, covers OpenAI, Gemini, Llama, Mistral). Contact Taiming ([taiminglu@princeton.edu](mailto:taiminglu@princeton.edu), or Slack) for setup.
 2. If that's not enough, contact Zhuang for additional API keys.
+
+For evaluation with Claude models, consider Claude Code's headless mode: a subscription gives much more value than paying per API token.
 
 ### Cluster Issues
 

@@ -3,6 +3,21 @@
 # Zhuang Liu Lab Wiki @Princeton
 
 
+## 实习生 / 短期成员须知
+
+最重要的两点期望：对工作的**全职投入**，以及**把项目一直做到公开发布**。请从第一天起就认真对待这两点。
+
+- **入职**：联系 Taiming 和你的 PhD 合作者（两人都保持在 loop 里）办理：
+  - Princeton **netID**
+  - **Slack** 权限
+  - 你需要的**集群**权限（Della GPU 和/或 TPU，取决于项目需求——不确定就和 PhD 合作者讨论）
+
+  然后在开始跑任务前先读 [Della 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della)和 [TPU 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/tpu)。更多见下方 Computation Resources 部分。
+- **全职投入**：在组期间，这个项目应该是你唯一的主要 research 焦点。请不要同时做其他并行的 research project。这指的是优先级和专注度，而非工作时长。如果你有任何外部的 research 承诺，请提前如实告知；有新的也要及时汇报。
+- **GitHub & Overleaf**：实习开始时联系 Taiming 在 [zlab-princeton](https://github.com/zlab-princeton) 下创建 GitHub repo，并创建 Overleaf 项目（Princeton 有高级许可证），方便协作。
+- **项目完成标准**：项目只有在公开发布（论文 + 代码/数据上 GitHub）后才算完成，不是投完稿就结束。请从第一天就记住这一点。
+
+
 ## 论文写作与 Rebuttal
 
 我们有一套资源帮助你写出高质量的论文。两个核心标准是 **[写作指南](https://github.com/zlab-princeton-internal/writing-guide)** 和 **[图表制作指南](https://github.com/zlab-princeton-internal/figure-guide)**。开始写作时就读这两份（不要拖到最后），并确保论文符合要求。争取在投稿截止日前至少 5 天拿出一份满足所有要求的完整 draft。arXiv 发布前同样适用。
@@ -20,21 +35,6 @@
 | 同行互审制度 | [GitHub](https://github.com/zlab-princeton-internal/peer-review) |
 | arXiv LaTeX 模板 | [Overleaf](https://www.overleaf.com/read/hvyxmdbzzfhp) |
 | Rebuttal guide | [Google Doc](https://docs.google.com/document/d/1OutETpGNG7lvUQwC--z8ia4exMqzEIe1dmdfZNtWNes/edit?usp=sharing) |
-
-
-## 实习生 / 短期成员须知
-
-最重要的两点期望：对工作的**全职投入**，以及**把项目一直做到公开发布**。请从第一天起就认真对待这两点。
-
-- **入职**：联系 Taiming 和你的 PhD 合作者（两人都保持在 loop 里）办理：
-  - Princeton **netID**
-  - **Slack** 权限
-  - 你需要的**集群**权限（Della GPU 和/或 TPU，取决于项目需求——不确定就和 PhD 合作者讨论）
-
-  然后在开始跑任务前先读 [Della 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della)和 [TPU 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/tpu)。更多见下方 Computation Resources 部分。
-- **全职投入**：在组期间，这个项目应该是你唯一的主要 research 焦点。请不要同时做其他并行的 research project。这指的是优先级和专注度，而非工作时长。如果你有任何外部的 research 承诺，请提前如实告知；有新的也要及时汇报。
-- **GitHub & Overleaf**：实习开始时联系 Taiming 在 [zlab-princeton](https://github.com/zlab-princeton) 下创建 GitHub repo，并创建 Overleaf 项目（Princeton 有高级许可证），方便协作。
-- **项目完成标准**：项目只有在公开发布（论文 + 代码/数据上 GitHub）后才算完成，不是投完稿就结束。请从第一天就记住这一点。
 
 
 ## 工具
@@ -88,6 +88,8 @@
 
 1. 首先使用 [Princeton AI Sandbox](https://princeton.service-now.com/service?id=kb_article&sys_id=KB0014337)（每人每月 $250 免费额度，支持 OpenAI、Gemini、Llama、Mistral）。联系 Taiming（[taiminglu@princeton.edu](mailto:taiminglu@princeton.edu) 或 Slack）设置。
 2. 如果不够，联系 Zhuang 获取额外的 API keys。
+
+用 Claude 模型做 evaluation 时，可以考虑 Claude Code 的 headless mode：订阅比按 API token 付费划算很多。
 
 ### 集群问题
 
