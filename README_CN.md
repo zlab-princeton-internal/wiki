@@ -29,7 +29,7 @@
 - **入职**：联系 Taiming 和你的 PhD 合作者（两人都保持在 loop 里）办理：
   - Princeton **netID**
   - **Slack** 权限
-  - **集群**权限（Della GPU 和 TPU）
+  - 你需要的**集群**权限（Della GPU 和/或 TPU，取决于项目需求——不确定就和 PhD 合作者讨论）
 
   然后在开始跑任务前先读 [Della 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della)和 [TPU 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/tpu)。更多见下方 Computation Resources 部分。
 - **全职投入**：在组期间，这个项目应该是你唯一的主要 research 焦点。请不要同时做其他并行的 research project。这指的是优先级和专注度，而非工作时长。如果你有任何外部的 research 承诺，请提前如实告知；有新的也要及时汇报。
