@@ -7,6 +7,10 @@
 
 **[Paper writing requirements](https://github.com/zlab-princeton-internal/writing-guide)** (must pass). Read this when you start writing your paper, not at the end. Aim to have a complete draft that passes all requirements at least 5 days before the submission deadline. This also applies before arXiv release.
 
+Before submission, also do a [peer review](https://github.com/zlab-princeton-internal/peer-review) with another lab member, and run the [AI paper checking](https://github.com/zlab-princeton-internal/ai-paper-checking) and [writing self-review](https://github.com/zlab-princeton-internal/paper-rating).
+
+When the paper goes public (arXiv release / acceptance), prepare dissemination materials (Twitter/X thread, LinkedIn, blog/project website, presentation video, talks). See the Dissemination section in the [writing guide](https://github.com/zlab-princeton-internal/writing-guide).
+
 | Resource | Link |
 |----------|------|
 | Paper writing guide | [GitHub](https://github.com/zlab-princeton-internal/writing-guide) |

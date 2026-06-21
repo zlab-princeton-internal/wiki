@@ -7,6 +7,10 @@
 
 **[Paper writing requirements](https://github.com/zlab-princeton-internal/writing-guide)**（必须通过）。开始写论文时就读这份文档，不要拖到最后。争取在投稿截止日前至少 5 天拿出一份通过所有要求的完整 draft。arXiv 发布前同样适用。
 
+投稿前还要和另一位组员做一次 [peer review](https://github.com/zlab-princeton-internal/peer-review)，并跑一遍 [AI 论文检查](https://github.com/zlab-princeton-internal/ai-paper-checking)和[写作自评](https://github.com/zlab-princeton-internal/paper-rating)。
+
+论文公开时（arXiv 发布 / 录用），准备好传播材料（Twitter/X thread、LinkedIn、blog/project website、presentation video、talks）。见[写作指南](https://github.com/zlab-princeton-internal/writing-guide)的 Dissemination 部分。
+
 | 资源 | 链接 |
 |------|------|
 | 写作指南 | [GitHub](https://github.com/zlab-princeton-internal/writing-guide) |
