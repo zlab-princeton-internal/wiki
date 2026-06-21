@@ -32,7 +32,7 @@
   - **集群**权限（Della GPU 和 TPU）
 
   然后在开始跑任务前先读 [Della 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della)和 [TPU 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/tpu)。更多见下方 Computation Resources 部分。
-- **全职投入**：在组期间，这个项目应该是你唯一的主要 research 焦点。请不要同时做其他并行的 research project。这指的是优先级和专注度，不是要你成天加班。如果你有任何外部的 research 承诺，请提前如实告知；有新的也要及时汇报。
+- **全职投入**：在组期间，这个项目应该是你唯一的主要 research 焦点。请不要同时做其他并行的 research project。这指的是优先级和专注度，而非工作时长。如果你有任何外部的 research 承诺，请提前如实告知；有新的也要及时汇报。
 - **GitHub & Overleaf**：实习开始时联系 Taiming 在 [zlab-princeton](https://github.com/zlab-princeton) 下创建 GitHub repo，并创建 Overleaf 项目（Princeton 有高级许可证），方便协作。
 - **项目完成标准**：项目只有在公开发布（论文 + 代码/数据上 GitHub）后才算完成，不是投完稿就结束。请从第一天就记住这一点。
 
