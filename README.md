@@ -5,7 +5,7 @@
 
 ## Paper Writing & Rebuttal
 
-**[Paper writing requirements](https://github.com/zlab-princeton-internal/writing-guide)** (must pass). Read this when you start writing your paper, not at the end. Aim to have a complete draft that passes all requirements at least 5 days before the submission deadline. This also applies before arXiv release.
+We have a set of resources to help you write a high-quality paper. The two core standards are the **[writing guide](https://github.com/zlab-princeton-internal/writing-guide)** and the **[figure & table guide](https://github.com/zlab-princeton-internal/figure-guide)**. Read both when you start writing, not at the end, and make sure your paper meets them. Aim to have a complete draft that meets all requirements at least 5 days before the submission deadline. This also applies before arXiv release.
 
 Before submission, also do a [peer review](https://github.com/zlab-princeton-internal/peer-review) with another lab member, and run the [AI paper checking](https://github.com/zlab-princeton-internal/ai-paper-checking) and [writing self-review](https://github.com/zlab-princeton-internal/paper-rating).
 

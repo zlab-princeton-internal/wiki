@@ -5,7 +5,7 @@
 
 ## 论文写作与 Rebuttal
 
-**[Paper writing requirements](https://github.com/zlab-princeton-internal/writing-guide)**（必须通过）。开始写论文时就读这份文档，不要拖到最后。争取在投稿截止日前至少 5 天拿出一份通过所有要求的完整 draft。arXiv 发布前同样适用。
+我们有一套资源帮助你写出高质量的论文。两个核心标准是 **[写作指南](https://github.com/zlab-princeton-internal/writing-guide)** 和 **[图表制作指南](https://github.com/zlab-princeton-internal/figure-guide)**。开始写作时就读这两份（不要拖到最后），并确保论文符合要求。争取在投稿截止日前至少 5 天拿出一份满足所有要求的完整 draft。arXiv 发布前同样适用。
 
 投稿前还要和另一位组员做一次 [peer review](https://github.com/zlab-princeton-internal/peer-review)，并跑一遍 [AI 论文检查](https://github.com/zlab-princeton-internal/ai-paper-checking)和[写作自评](https://github.com/zlab-princeton-internal/paper-rating)。
 
