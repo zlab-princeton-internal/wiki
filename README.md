@@ -24,7 +24,7 @@ When the paper goes public (arXiv release / acceptance), prepare dissemination m
 
 ## Intern / Short-term Member Guidelines
 
-- **Onboarding**: To get set up, contact your PhD collaborator (or Taiming directly) for:
+- **Onboarding**: To get set up, contact Taiming and your PhD collaborator (keep both in the loop) for:
   - Princeton **netID**
   - **Slack** access
   - Access to the **clusters** (Della GPU, and TPU)

@@ -24,7 +24,7 @@
 
 ## 实习生 / 短期成员须知
 
-- **入职**：联系你的 PhD 合作者（或直接联系 Taiming）办理：
+- **入职**：联系 Taiming 和你的 PhD 合作者（两人都保持在 loop 里）办理：
   - Princeton **netID**
   - **Slack** 权限
   - **集群**权限（Della GPU 和 TPU）
