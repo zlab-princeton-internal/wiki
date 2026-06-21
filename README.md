@@ -24,6 +24,8 @@ When the paper goes public (arXiv release / acceptance), prepare dissemination m
 
 ## Intern / Short-term Member Guidelines
 
+Two expectations matter most: **full-time commitment** to the work, and **carrying your project all the way to public release**. Please take both seriously from day one.
+
 - **Onboarding**: To get set up, contact Taiming and your PhD collaborator (keep both in the loop) for:
   - Princeton **netID**
   - **Slack** access
