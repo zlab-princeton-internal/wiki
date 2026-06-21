@@ -24,7 +24,12 @@ When the paper goes public (arXiv release / acceptance), prepare dissemination m
 
 ## Intern / Short-term Member Guidelines
 
-- **Onboarding**: Contact Taiming for Slack, netID, and cluster access.
+- **Onboarding**: To get set up, contact your PhD collaborator (or Taiming directly) for:
+  - Princeton **netID**
+  - **Slack** access
+  - Access to the **clusters** (Della GPU, and TPU)
+
+  Then read the [Della guide](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della) and [TPU guide](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/tpu) before you start running jobs. See the Computation Resources section below for more.
 - **Full-time commitment**: Internships are full-time positions. If you have outside research projects, report them promptly.
 - **GitHub & Overleaf**: At the start of your internship, contact Taiming to create a GitHub repo (under [zlab-princeton](https://github.com/zlab-princeton)) and an Overleaf project (Princeton has a premium license) for easy collaboration.
 - **Project completion**: A project is only considered complete after public release (paper + code/data on GitHub), not just conference submission. Please keep this in mind from day one.

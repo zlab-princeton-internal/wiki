@@ -24,7 +24,12 @@
 
 ## 实习生 / 短期成员须知
 
-- **入职**：联系 Taiming 获取 Slack、netID 和集群权限。
+- **入职**：联系你的 PhD 合作者（或直接联系 Taiming）办理：
+  - Princeton **netID**
+  - **Slack** 权限
+  - **集群**权限（Della GPU 和 TPU）
+
+  然后在开始跑任务前先读 [Della 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della)和 [TPU 指南](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/tpu)。更多见下方 Computation Resources 部分。
 - **全职投入**：实习是全职岗位。如果有其他 research project，请及时汇报。
 - **GitHub & Overleaf**：实习开始时联系 Taiming 在 [zlab-princeton](https://github.com/zlab-princeton) 下创建 GitHub repo，并创建 Overleaf 项目（Princeton 有高级许可证），方便协作。
 - **项目完成标准**：项目只有在公开发布（论文 + 代码/数据上 GitHub）后才算完成，不是投完稿就结束。请从第一天就记住这一点。
